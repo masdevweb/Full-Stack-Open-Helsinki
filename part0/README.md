@@ -18,6 +18,3 @@ In this folder, you will find my solved exercises related to the fundamentals in
 - Feel free to browse and use the code for learning purposes.
 
 ---
-
-If you want, puedo ayudarte a agregar más secciones o hacer la intro más técnica o más informal. ¿Querés?
-
